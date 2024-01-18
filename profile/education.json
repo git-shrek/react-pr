@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Jun 2009 - July 2013",
+            "cardTitle": "B.E,Computer Engineering",
+            "cardSubtitle":"Kalol Institute of Technology",
+            "cardDetailedText": "CGPA - 6.98"
+        },
+        {
+            "title": "Apr 2009",
+            "cardTitle": "High School",
+            "cardSubtitle":"Sardar Patel Vidhyalaya ,Surendranagar",
+            "cardDetailedText": "Marks - 70.60%"
+        },
+        {
+            "title": "Apr 2007",
+            "cardTitle": "Secondary School",
+            "cardSubtitle":"Shree Ambika Vidhyalaya ,Ahmedabad",
+            "cardDetailedText": "Marks - 80.31%"
+        }
+    ]
+}

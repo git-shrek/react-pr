@@ -1,0 +1,2 @@
+(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[9],{62:function(t,e,o){"use strict";o.r(e);o(0),o(64);var p=o(1);e.default=function(t){const{title:e}=t;return Object(p.jsx)("div",{className:"header",children:e})}}}]);
+//# sourceMappingURL=9.bab802a1.chunk.js.map

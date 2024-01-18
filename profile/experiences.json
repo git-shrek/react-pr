@@ -1,0 +1,26 @@
+{
+    "experiences": [
+        {
+            "title": "Java Software Engineer",
+            "subtitle": "Innoventaa Technology",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on hibernate ,spring and spring-boot , customization",
+                "Learn curd operation or rest api on spring-boot"
+            ],
+            "dateText": "08/2023 – 12/2023"
+        },
+        {
+            "title": "Php Software Engineer",
+            "subtitle": "Biztech Consultancy",
+            "workType": "Full-time",
+            "workDescription": [
+                "Php Based Job",
+                "Worked on CRM tools and Rest Api.",
+                "Customized different type of Customization in CRM and create rest api for mobile application."
+            ],
+            "dateText": "03/2016 – 07/2019"
+        }
+        
+    ]
+}
