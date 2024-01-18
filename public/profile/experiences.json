@@ -1,33 +1,26 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Java Software Engineer",
+            "subtitle": "Innoventaa Technology",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Worked on hibernate ,spring and spring-boot , customization",
+                "Learn curd operation or rest api on spring-boot"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "08/2023 – 12/2023"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Php Software Engineer",
+            "subtitle": "Biztech Consultancy",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Php Based Job",
+                "Worked on CRM tools and Rest Api.",
+                "Customized different type of Customization in CRM and create rest api for mobile application."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "03/2016 – 07/2019"
         }
+        
     ]
 }
